@@ -10,7 +10,7 @@ You will need `python3` and `golang` installed in your machine.
 
 Run `pip3 install daltonize img2pdf`
 
-and `go get github.com/edersonferreira/colorblindor`
+and `go get github.com/lissaferreira/colorblindor`
 
 # Usage
 
